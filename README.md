@@ -4,6 +4,7 @@ Draw a red triangle:
   1) draw a red triangle with shaders
   2) vertex shader is a pass through shader
   3) fragment shader is assigned with right color
+  4) glew is used for opengl functions
   
 Output Image:
 ![](images/output.png)

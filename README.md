@@ -1,7 +1,7 @@
 # OpenGl-Triangle-Shader
 
 Draw a red triangle:
-  1) draw a red triangle in with shaders
+  1) draw a red triangle with shaders
   
 Output Image:
 ![](images/output.png)
